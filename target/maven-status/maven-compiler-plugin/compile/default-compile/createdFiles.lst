@@ -1,1 +1,10 @@
+com\Tjise\db\DBProvider2.class
+com\Tjise\model\UserModel.class
+com\Tjise\db\TestDriver.class
+com\Tjise\Main.class
+com\Tjise\db\DBCPDataSource.class
 com\wjj\Tjisejavamaven0402\HelloServlet.class
+com\Tjise\bean\UserInfoBean.class
+com\Tjise\db\DBProvider.class
+com\Tjise\utils\MyUtils.class
+com\Tjise\control\LoginServlet.class
