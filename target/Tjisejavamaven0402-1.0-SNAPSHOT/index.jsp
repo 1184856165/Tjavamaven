@@ -6,9 +6,16 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
+<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
 <link rel="stylesheet" href="plugins/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+
+<!--jquery的框架：一定要先导入，因为bootstrap的框架需要使用jquery-->
 <script src="plugins/jquery-1.12.4/jquery-1.12.4.min.js" type="text/javascript"></script>
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
 <script src="plugins/bootstrap-3.3.7-dist/js/bootstrap.min.js" type="text/javascript"></script>
+
 <html>
 <head>
     <title>登录页面</title>
